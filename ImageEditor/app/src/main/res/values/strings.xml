@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImageKitTest</string>
+    <string name="send" translatable="false">Send</string>
+    <string name="pic" translatable="false">pics</string>
+    <string name="intensity" translatable="false">Filter Intensity</string>
+    <string name="compress" translatable="false">Compress Rate</string>
+    <string-array name="planets_array">
+        <item>Filter 0</item>
+        <item>Filter 1</item>
+        <item>Filter 2</item>
+        <item>Filter 3</item>
+        <item>Filter 4</item>
+        <item>Filter 5</item>
+        <item>Filter 6</item>
+        <item>Filter 7</item>
+        <item>Filter 8</item>
+        <item>Filter 9</item>
+        <item>Filter 10</item>
+        <item>Filter 11</item>
+        <item>Filter 12</item>
+        <item>Filter 13</item>
+        <item>Filter 14</item>
+        <item>Filter 15</item>
+        <item>Filter 16</item>
+        <item>Filter 17</item>
+        <item>Filter 18</item>
+        <item>Filter 19</item>
+        <item>Filter 20</item>
+        <item>Filter 21</item>
+        <item>Filter 22</item>
+        <item>Filter 23</item>
+        <item>Filter 24</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

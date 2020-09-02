@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:network-common:4.0.0.302@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/network-common-4.0.0.302.aar/38ed162a85f02402323afeabb66f1502/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/network-common-4.0.0.302.aar/38ed162a85f02402323afeabb66f1502/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/network-common/4.0.0.302/da39a3ee5e6b4b0d3255bfef95601890afd80709/network-common-4.0.0.302-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/network-common/4.0.0.302/da39a3ee5e6b4b0d3255bfef95601890afd80709/network-common-4.0.0.302-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
